@@ -6,7 +6,7 @@ A Deep Learning-based framework that integrates multi-scale protein embeddings a
 ### **Step 1: Generate Data Features**
 Navigate to the `data` folder and use your FASTA file to generate data features. Outputs are saved in the `dataset` folder.
 
-Example usage:
+### **Example usage:**
 python get_ProtTrans.py -in "Your FASTA file folder" -out "The destination folder of your output"
 python get_tape.py -in "Your FASTA file folder" -out "The destination folder of your output"
 python get_esm.py "Pretrained model of ESM" "Your FASTA file folder" "The destination folder of your output" --repr_layers 33 --include per_tok
@@ -42,7 +42,7 @@ These scripts create an external knowledge base and extract context-aware embedd
 
 ### **Step 4: Execute Prediction  **
 Launch the model in a Jupyter environment:
-jupyter notebook DeepAtten_Metal.ipynb
+jupyter notebook mscnn.ipynb
 
 
 
