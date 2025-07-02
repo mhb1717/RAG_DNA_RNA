@@ -1,6 +1,6 @@
 # RAG_msCNN_DNA
 
-A Deep Learning-based framework that integrates multi-scale protein embeddings and a RAG (Retrieval-Augmented Generation) strategy for metal-binding site prediction.
+A Deep Learning-based framework that integrates multi-scale protein embeddings and a RAG (Retrieval-Augmented Generation) strategy for DNA_RNA-binding site prediction.
 
 ## Quick Start
 ### **Step 1: Generate Data Features**
