@@ -1,5 +1,5 @@
 # RAG_msCNN_DNA
-![Grad-CAM or Cosine Similarity Plot]([https://github.com/mhb1717/efflux/blob/main/Group%2080%20(1).png?raw=true](https://github.com/mhb1717/RAG_DNA_RNA/blob/main/Frame%201.png))
+![Grad-CAM or Cosine Similarity Plot](https://github.com/mhb1717/RAG_DNA_RNA/blob/main/Frame%201.png)
 A Deep Learning-based framework that integrates multi-scale protein embeddings and a RAG (Retrieval-Augmented Generation) strategy for DNA_RNA-binding site prediction.
 
 ## Quick Start
