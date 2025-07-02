@@ -10,5 +10,5 @@ python get_tape.py -in "Your FASTA file folder" -out "The destination folder of 
 python get_esm.py "Pretrained model of ESM" "Your FASTA file folder" "The destination folder of your output" --repr_layers 33 --include per_tok
 python get_ProstT5.py -in "Your FASTA file folder" -out "The destination folder of your output"
 
-
+```
 **Step 2: Create a Multi-Scale or Sliding Window Feature Set**
