@@ -9,6 +9,6 @@ python get_ProtTrans.py -in "Your FASTA file folder" -out "The destination folde
 python get_tape.py -in "Your FASTA file folder" -out "The destination folder of your output"
 python get_esm.py "Pretrained model of ESM" "Your FASTA file folder" "The destination folder of your output" --repr_layers 33 --include per_tok
 python get_ProstT5.py -in "Your FASTA file folder" -out "The destination folder of your output"
-### **Step 2: Create Multi-Scale or Sliding Window Feature Set**
+**Step 2: Create Multi-Scale or Sliding Window Feature Set — Run the following script:**
 Run get_dataset.py:
 python get_dataset.py -in "path of features" -label "path of labels" -out "path of output features set" -w 7 -dt ".prottrans"
