@@ -37,7 +37,7 @@ python get_dataset_RAG_DB.npy
 
 
 Generate final RAG embeddings:
-python get_RagEmb_Batch.npy
+python get_RagEmbedding.npy
 
 
 
